@@ -1,0 +1,26 @@
+{
+  "name": "laravel-electron-app",
+  "version": "1.0.0",
+  "description": "Convert your Laravel Application to Desktop App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radhitiapratama/laravel-electron-app.git"
+  },
+  "author": "Radhitia Pratama Effendy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radhitiapratama/laravel-electron-app/issues"
+  },
+  "homepage": "https://github.com/radhitiapratama/laravel-electron-app#readme",
+  "devDependencies": {
+    "electron": "^31.0.1"
+  },
+  "dependencies": {
+    "node-php-server": "^0.1.2"
+  }
+}
